@@ -1,0 +1,7 @@
+{
+    "theme": {
+        "file": "/ventoy/themes/Tohru-Theme/theme.txt",
+		"ventoy_color": "white",
+        "gfxmode": "1366x768"
+    }
+}
